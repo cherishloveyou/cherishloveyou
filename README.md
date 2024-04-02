@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi，You are the ![Visitor Count](https://profile-counter.glitch.me/cherishloveyou/count.svg) visitor!
+![github stats](https://github-readme-stats.vercel.app/api?username=cherishloveyou&show_icons=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherishloveyou&layout=compact&hide=html,css,xslt&langs_count=8)
 
 <!--
 **cherishloveyou/cherishloveyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
